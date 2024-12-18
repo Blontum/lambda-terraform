@@ -1,0 +1,3 @@
+[submodule "Terraform_lambda_project"]
+	path = Terraform_lambda_project
+	url = https://github.com/Blontum/Terraform_lambda_project.git
